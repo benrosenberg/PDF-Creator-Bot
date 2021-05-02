@@ -2,6 +2,8 @@
 
 Discord bot that creates PDFs from Markdown messages. Also includes functionality as an image uploader for insertion into Markdown files.
 
+Overview and demo [here](https://bots.thief.fyi/#PDF%20Creator).
+
 ### Requirements
 
  - Python (3.7.3 and up should be fine, newer is better)
@@ -11,9 +13,12 @@ Discord bot that creates PDFs from Markdown messages. Also includes functionalit
  - `curl`
  - LaTeX (a full installation of [TeX Live](https://www.tug.org/texlive/) should be fine)
  - ImageMagick
+ - `qpdf` (for page numbers)
 
 ### Usage
 
+More comprehensive (albeit somewhat outdated -- PyYaml is no longer needed, as YAML headers are deprecated) setup instructions can be found [here](https://bots.thief.fyi/PDFCreator/)
+
 1. Put bot token in a `.env` file in the same directory as `bot.py`
 2. Run `python bot.py` (or `python3 bot.py`, depending on your Python installation)
-3. Follow instructions [here](https://bots.thief.fyi/#PDF%20Creator) and [here](https://bots.thief.fyi/PDFCreator/) (somewhat outdated -- YAML headers have been removed as they were buggy)
+3. Follow instructions on usage [here](https://bots.thief.fyi/PDFCreator/) (somewhat outdated -- YAML headers have been removed as they were buggy)
