@@ -2,7 +2,7 @@
 
 Discord bot that creates PDFs from Markdown messages. Also includes functionality as an image uploader for insertion into Markdown files.
 
-Overview and demo [here](https://bots.thief.fyi/#PDF%20Creator).
+Overview and demo [here](https://bots.benrosenberg.info/#PDF%20Creator).
 
 ### Requirements
 
