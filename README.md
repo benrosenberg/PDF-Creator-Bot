@@ -21,4 +21,4 @@ More comprehensive setup instructions can be found [here](https://bots.thief.fyi
 
 1. Put bot token in a `.env` file in the same directory as `bot.py`
 2. Run `python bot.py` (or `python3 bot.py`, depending on your Python installation)
-3. Follow instructions on usage [here](https://bots.thief.fyi/PDFCreator/) 
+3. Follow instructions on usage [here](https://bots.benrosenberg.info/PDFCreator/) 
